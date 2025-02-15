@@ -13,6 +13,7 @@ import (
 	"sync"
 	"time"
 
+	_ "github.com/grafana/beyla/bpf"
 	"github.com/grafana/beyla/pkg/beyla"
 	"github.com/grafana/beyla/pkg/components"
 	"github.com/grafana/beyla/pkg/export/prom"
