@@ -264,7 +264,7 @@ work correctly.
 ### File-based collection
 
 Logs may also be collected by mounting the host's filesystem into the Alloy
-container, bypassing the need to communicate with the Kubrnetes API.
+container, bypassing the need to communicate with the Kubernetes API.
 
 To mount logs from other containers to Grafana Alloy directly:
 
